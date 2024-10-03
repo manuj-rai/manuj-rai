@@ -1,18 +1,26 @@
 # 👋 Hi, I’m Manuj Rai
-## 👀 I’m interested in ...
-- Web development, Software Engineering, and open-source contributions.
 
-## 🌱 I’m currently learning ...
-- Asp.Net, Angular, Javascript for Web Development.
+## About Me
+I’m a passionate developer with a keen interest in:
+- **Web Development**
+- **Software Engineering**
+- **Open-Source Contributions**
 
-## 💞️ I’m looking to collaborate on ...
-- Open-source projects related to web applications.
+## Current Learning
+🌱 I’m currently diving into:
+- **ASP.NET**
+- **Angular**
+- **JavaScript** for Web Development
 
-## 📫 How to reach me ...
-- Email: imanujrai7@gmail.com 
+## Collaboration
+💞 I’m looking to collaborate on open-source projects related to web applications. If you have a project in mind or need help, feel free to reach out!
 
-## 😄 Pronouns:
-- He/Him
+## Contact Me
+📫 **Email**: [imanujrai7@gmail.com](mailto:imanujrai7@gmail.com)
 
-## ⚡ Fun fact:
-- I once ride bike from pune to ahemdabad without any stop!
+## Pronouns
+😄 **Pronouns**: He/Him
+
+## Fun Fact
+⚡ I once rode a bike from Pune to Ahmedabad without any stops!
+
