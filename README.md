@@ -1,6 +1,6 @@
 # 👨‍💻 **Welcome to My Code Space!**
 
-![Code GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Code GIF](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif)
 
 Hey there! 👋 I’m Manuj Rai — a passionate coder who loves to solve problems, write clean code, and build cool stuff. Whether it's backend logic, frontend magic, or diving deep into databases, you'll find me in the zone 🚀.
 
