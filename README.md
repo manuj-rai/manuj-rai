@@ -1,26 +1,42 @@
-# 👋 Hi, I’m Manuj Rai
+# 👨‍💻 **Welcome to My Code Space!**
 
-## About Me
-I’m a passionate developer with a keen interest in:
-- **Web Development**
-- **Software Engineering**
-- **Open-Source Contributions**
+![Code GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-## Current Learning
-🌱 I’m currently diving into:
-- **ASP.NET**
-- **Angular**
-- **JavaScript** for Web Development
+Hey there! 👋 I’m Manuj Rai — a passionate coder who loves to solve problems, write clean code, and build cool stuff. Whether it's backend logic, frontend magic, or diving deep into databases, you'll find me in the zone 🚀.
 
-## Collaboration
-💞 I’m looking to collaborate on open-source projects related to web applications. If you have a project in mind or need help, feel free to reach out!
+## 🚀 **Skills & Tools**  
+💻 **Languages:**  
+- `C#` | `.NET` | `JavaScript` | `Python`  
+- `HTML` | `CSS` | `SQL`  
 
-## Contact Me
-📫 **Email**: [imanujrai7@gmail.com](mailto:imanujrai7@gmail.com)
+🛠 **Frameworks & Libraries:**  
+- ASP.NET | React | Node.js  
+- Entity Framework | Bootstrap  
 
-## Pronouns
-😄 **Pronouns**: He/Him
+🗃 **Databases:**  
+- SQL Server | MongoDB  
 
-## Fun Fact
-⚡ I once rode a bike from Pune to Ahmedabad without any stops!
+🔧 **Tools:**  
+- Visual Studio | Git | Postman  
+
+## 🛠️ **My Coding Philosophy**
+- **Keep it Simple:** Clean code is better than clever code.
+- **Automate everything:** Less manual, more productivity.
+- **Test everything:** Bugs fear a well-tested codebase.
+  
+## 📚 **Learning & Growth**
+Right now, I'm diving deeper into:  
+- 📖 Advanced JavaScript patterns
+- 🧠 System design  
+- 🐳 Docker & containerization
+
+## 👾 **Fun Fact**
+I believe in the power of **dark mode** 🌙, caffeine ☕, and late-night coding jams 🎧.
+
+## 🤝 **Let’s Connect!**
+Feel free to reach out if you’d like to collaborate or chat about tech!  
+- 💼 [LinkedIn](https://www.linkedin.com/in/manujrai/)  
+- 📧 [Email](mailto:imanujrai7@gmail.com)  
+- 🌐 [Portfolio](https://manuj-rai.github.io/Dark-Theme-Portfolio/)
+
 
