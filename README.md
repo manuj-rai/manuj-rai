@@ -10,7 +10,7 @@ Hey there! 👋 I’m Manuj Rai — a passionate coder who loves to solve proble
 - `HTML` | `CSS` | `SQL`  
 
 🛠 **Frameworks & Libraries:**  
-- ASP.NET | React | Node.js  
+- ASP.NET | Angular | Node.js  
 - Entity Framework | Bootstrap  
 
 🗃 **Databases:**  
@@ -26,7 +26,7 @@ Hey there! 👋 I’m Manuj Rai — a passionate coder who loves to solve proble
   
 ## 📚 **Learning & Growth**
 Right now, I'm diving deeper into:  
-- 📖 Advanced JavaScript patterns
+- 📖 Advanced JavaScript 
 - 🧠 System design  
 - 🐳 Docker & containerization
 
